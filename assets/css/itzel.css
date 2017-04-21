@@ -1,3 +1,4 @@
+
 .nombreIx{
 	font-size: 30px; 
 	margin-left: 10%;
@@ -15,9 +16,8 @@
 }
 .fotoIx{
 	width: 20%;
-	height: 150px;
+	height: 200px;
 	margin: 10%;
-	border: solid black 2px;
 	float: left;
 }
 .descripcion{
@@ -26,4 +26,15 @@
 	margin-top: 10%;
 	border: solid black 2px;
 	float: left
+}
+
+.circular{
+	border-radius: 50% 50%;
+}
+.absolute{
+	position: absolute;
+}
+.foto1{
+	width: 50%;
+	height: 90%;
 }
