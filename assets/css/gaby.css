@@ -1,0 +1,27 @@
+.nombreGaby{
+  font-size: 40px;
+  text-align: center;
+  color: white ;
+  background: #C70039;
+}
+.imagenGaby{
+  width: 20%;
+  float: left;
+  margin: 3% 5%;
+}
+.descripcion{
+  width: 40%;
+  display: inline-block;
+  float: left;
+  margin: 3% 5%;
+}
+.hobbies{
+  clear: left;
+  text-align: center;
+  color: #C70039;
+  font-size: 25px;
+}
+.imagen{
+  width: 15%;
+  margin:  3% 10%;
+}

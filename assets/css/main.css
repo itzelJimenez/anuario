@@ -3,3 +3,11 @@ body{
   font-family: verdana;
   color: white;
 }
+
+#descripcion{
+  text-align: center;
+}
+
+#links{
+  margin-top: 50px;
+}
