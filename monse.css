@@ -1,0 +1,49 @@
+ul {
+  background-color:#db4f65
+}
+
+li {
+  display: inline-block;
+
+  list-style: none;
+}
+
+
+
+.span1{
+  color:#635f5f;
+  margin: 0px;
+  font-weight: 900;
+  font-family: helvetica;
+  font-size: 20px;
+  display: inline-block;
+
+}
+
+.span2{
+  color:#e5e0e2;
+  left: 100px;
+  font-weight: 900;
+  font-family: helvetica;
+  display: inline-block;
+  position: absolute;
+}
+
+body {
+    background-color:#ecdfd0;
+}
+
+.im {
+  margin-top: 40px;
+  margin-left: 65px;
+  display:inline-block;
+  position: relative;
+}
+
+img:hover {
+ transform: scale(2) translate(0px);
+}
+
+.colum {
+  column-count: 2;
+}
