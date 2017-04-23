@@ -1,0 +1,40 @@
+
+.nombreIx{
+	font-size: 30px; 
+	margin-left: 10%;
+}
+.lineaTitulo{
+	margin-left: 10%;
+	height: 10px;
+	width: 60%;
+}
+.bck{
+	display: block;
+}
+.dorado{
+	background-color: #929E19;
+}
+.fotoIx{
+	width: 20%;
+	height: 200px;
+	margin: 10%;
+	float: left;
+}
+.descripcion{
+	width: 50%;
+	height: 150px;
+	margin-top: 10%;
+	border: solid black 2px;
+	float: left
+}
+
+.circular{
+	border-radius: 50% 50%;
+}
+.absolute{
+	position: absolute;
+}
+.foto1{
+	width: 50%;
+	height: 90%;
+}
