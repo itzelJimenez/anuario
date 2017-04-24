@@ -1,19 +1,28 @@
+body{
+  background-image: url(../img/fondo.jpg);
+}
 .nombreGaby{
   font-size: 40px;
+  font-family: tahoma;
   text-align: center;
+  padding: 5px 10px;
   color: white ;
-  background: #C70039;
+  background-image: url(../img/geometrico.jpg);
 }
 .imagenGaby{
   width: 20%;
   float: left;
-  margin: 3% 5%;
+  margin: 5% 5%;
+  border: 8px double black;
 }
 .descripcion{
-  width: 40%;
+  width: 50%;
+  font-size: 20px;
+  font-family: garamond;
+  text-align: justify;
   display: inline-block;
   float: left;
-  margin: 3% 5%;
+  margin: 5% 5%;
 }
 .hobbies{
   clear: left;
@@ -23,5 +32,5 @@
 }
 .imagen{
   width: 15%;
-  margin:  3% 10%;
+  margin:  3% 5%;
 }
