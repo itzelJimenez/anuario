@@ -13,6 +13,7 @@ li {
 .span1{
   color:#635f5f;
   margin: 0px;
+  margin-left: 30px;
   font-weight: 900;
   font-family: helvetica;
   font-size: 20px;
@@ -22,7 +23,16 @@ li {
 
 .span2{
   color:#e5e0e2;
-  left: 100px;
+  left: 180px;
+  font-weight: 900;
+  font-family: helvetica;
+  display: inline-block;
+  position: absolute;
+}
+
+div{
+  color:#561a5a;
+  left: 10px;
   font-weight: 900;
   font-family: helvetica;
   display: inline-block;
@@ -35,15 +45,11 @@ body {
 
 .im {
   margin-top: 40px;
-  margin-left: 65px;
+  margin-left: 665px;
   display:inline-block;
   position: relative;
 }
 
 img:hover {
  transform: scale(2) translate(0px);
-}
-
-.colum {
-  column-count: 2;
 }

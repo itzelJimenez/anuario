@@ -3,7 +3,7 @@
   margin: 0;
 }
 
-#angie {
+#angie, #hobbiesAngie {
   font-family: lobster;
   font-size: 40px;
   color: #4074c9;
@@ -11,16 +11,33 @@
 }
 
 #misDatos {
-  display: inline-block;
-  margin-left: 50px;
-  
-
+  height: 350px;
+  display: flex;
+  padding: 0 25px;
+  align-items: center;
 }
 
-/*#myPicture {
-  display: inline-block;
-}
+
 
 #myParagraph {
+  line-height: 1.5;
+  padding-left: 100px;
+
+}
+
+.imgAngie {
   display: inline-block;
-}*/
+  margin-left: 180px;
+  margin-top: 80px;
+}
+.return {
+  text-align: center;
+  font-size: 20px;
+  margin-top: 100px;
+  font-family: fantasy;
+}
+
+.returnLink {
+  color: red;
+  text-decoration: none;
+}
